@@ -4,3 +4,5 @@ Nama : Fika Haliza<br>
 
 Hari ini, Kamis 02.0kt.2025 kami belajar:<br>
 1) ternyata, struktur html tidak perlu ditulis lengkap karena browser punya error tolerance
+2) emmet, ternyata bisa ketik kode jauh lebih cepat
+3) ternyata ada simbol-simbol yang bisa digunakan 
