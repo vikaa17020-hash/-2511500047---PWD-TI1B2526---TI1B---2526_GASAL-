@@ -17,4 +17,5 @@ Hari ini Kamis, 09.okt.2025, saya belajar:
   <li>membuat styling ID section#contact groups selector</li>
   <li>membuat section#contact upgrade struktur form</li>
   <li>membuat section#contact styling label</li>
+  <li>membuat section#cibtact styling label>span</li>
   </ol>
