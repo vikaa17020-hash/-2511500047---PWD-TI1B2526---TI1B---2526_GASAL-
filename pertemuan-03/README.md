@@ -22,4 +22,5 @@ Hari ini Kamis, 09.okt.2025, saya belajar:
   <li>membuat section#contact styling tombol</li>
   <li>membuat section#contact styling warna tombol</li>
   <li>membuat section#contact styling hover tombol</li>
+  <li>membuat section#contact styling dan label>span</li>
   </ol>
