@@ -20,5 +20,6 @@ Hari ini Kamis, 09.okt.2025, saya belajar:
   <li>membuat section#cibtact styling label>span</li>
   <li>membuat section#contact styling input textarea</li>
   <li>membuat section#contact styling tombol</li>
-  <li>membuat section#contacct styling warna tombol</li>
+  <li>membuat section#contact styling warna tombol</li>
+  <li>membuat section#contact styling hover tombol</li>
   </ol>
