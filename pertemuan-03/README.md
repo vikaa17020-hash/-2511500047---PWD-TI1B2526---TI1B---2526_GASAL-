@@ -18,4 +18,5 @@ Hari ini Kamis, 09.okt.2025, saya belajar:
   <li>membuat section#contact upgrade struktur form</li>
   <li>membuat section#contact styling label</li>
   <li>membuat section#cibtact styling label>span</li>
+  <li>membuat section#contact styling input textarea</li>
   </ol>
