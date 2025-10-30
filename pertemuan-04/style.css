@@ -65,7 +65,7 @@
 
         header li a:hover {
             background-color: #85020d;
-            border-radius: 6px;
+            border-radius: 2px;
             transition: background-color 0.3s ease;
         }
 
@@ -73,7 +73,7 @@
             outline: 2px solid #fff;
             outline-offset: 2px;
             border-radius: 6px;
-            background-color; rgba(255, 255, 255, 0.15);
+            background-color; rgba(24, 255, 212, 0.31);
         }
 
         header li a:active {
@@ -137,7 +137,7 @@
             font-weight: 500;
         }   
 
-        #contact buttton[type="submit"] :hover {
+        #contact buttton[type="submit"]:hover {
             background-color: #0379ee;
             transform: translateY(-1px);
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
