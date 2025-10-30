@@ -10,4 +10,7 @@ Hari ini, Kamis 30 Oktober 2025, saya mempelajari:
   <li>styling untuk menu class toggle</li>
   <li>styling untuk menu class toggle mobile</li>
 <li>styling elemen nav mobile</li>
+<li>styling nav class active</li>
+<li>tambah file script.js</li>
+<li>event klik pada tombol hamburger</li>
 <ol>
