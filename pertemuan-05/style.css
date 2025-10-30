@@ -30,7 +30,35 @@
            text-decoration: none;
            padding: 6px 12px;
         }
+
+         header li a:hover {
+            background-color: #85020d;
+            border-radius: 6px;
+            transition: background-color 0.3s ease;
+        }
+
+         header li a:focus {
+            outline: 2px solid #fff;
+            outline-offset: 2px;
+            border-radius: 6px;
+            background-color; rgba(255, 255, 255, 0.15);
+        }
+
+        header li a:active {
+            background-color: #cc04a1;
+            transform: translateY(1px);
+        }
        
+        #home:target-header nav a[href="#home"],
+        #about:target-header nav a[href="#about"],
+        #contact:target-header nav a[href="#contact"] {
+            background: #ffffff;
+            color #003366;
+            font-weight: bold;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+        }
+
         #home,
         #about,
         #contact {
@@ -54,31 +82,6 @@
 
         #home p, {
             text-align: justify;
-        }
-
-        footer {
-            background: #222;
-            color: #aaa;
-            text-align: center;
-            padding: 10px;
-        }
-
-        header li a:hover {
-            background-color: #85020d;
-            border-radius: 6px;
-            transition: background-color 0.3s ease;
-        }
-
-        header li a:focus {
-            outline: 2px solid #fff;
-            outline-offset: 2px;
-            border-radius: 6px;
-            background-color; rgba(255, 255, 255, 0.15);
-        }
-
-        header li a:active {
-            background-color: #cc04a1;
-            transform: translateY(1px);
         }
 
         #about p 
@@ -148,7 +151,29 @@
             transform: translateY(-1px);
         }
 
+         footer {
+            background: #222;
+            color: #aaa;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .menu-toggle {
+            display: none;
+            background: none;
+            border: none;
+            color: #fff;
+            font-size: 24px;
+        }
+
         @media (max-width: 600px) {
+            .menu-toggle {
+                display: block;
+                position: absolute;
+                left: 16px;
+                top: 16px;
+            }
+            
             header {
                 padding; 16px;
                 position: sticky;
