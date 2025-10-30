@@ -9,5 +9,5 @@ Hari ini, Kamis 30 Oktober 2025, saya mempelajari:
   <li>buat tombol hamburger</li>
   <li>styling untuk menu class toggle</li>
   <li>styling untuk menu class toggle mobile</li>
-
+<li>styling elemen nav mobile</li>
 <ol>
